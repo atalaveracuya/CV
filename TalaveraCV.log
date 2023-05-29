@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.1.10)  7 MAR 2023 18:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.1.10)  29 MAY 2023 02:27
 entering extended mode
 **./TalaveraCV.tex
 (TalaveraCV.tex
@@ -269,7 +269,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip51
 )
 LaTeX Font Info:    Trying to load font information for OT1+EBGaramond-OsF on i
-nput line 26.
+nput line 27.
 
 (C:\Users\Andres\AppData\Local\Programs\MiKTeX\tex/latex/ebgaramond\ot1ebgaramo
 nd-osf.fd
@@ -279,9 +279,9 @@ amond-OsF.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' in size <10.95> not ava
 ilable
 (Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on 
-input line 26.
+input line 27.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 26.
+(Font)              scaled to size 10.95pt on input line 27.
 
 (C:\Users\Andres\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
 ftex.def
@@ -291,22 +291,22 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 ) (TalaveraCV.aux)
 \openout1 = `TalaveraCV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 (C:\Users\Andres\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
@@ -367,7 +367,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 \c@mv@tabular=\count271
 \c@mv@boldtabular=\count272
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 27.
 (C:\Users\Andres\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -380,9 +380,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count273
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
  (TalaveraCV.out) (TalaveraCV.out)
 \@outlinefile=\write3
 \openout3 = `TalaveraCV.out'.
@@ -390,26 +390,26 @@ LaTeX Info: Redefining \nameref on input line 26.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' in size <20.74> not ava
 ilable
 (Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on 
-input line 26.
+input line 27.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 20.74pt on input line 26.
+(Font)              scaled to size 20.74pt on input line 27.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' in size <20.74> not ava
 ilable
 (Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on inp
-ut line 26.
+ut line 27.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 20.74pt on input line 26.
+(Font)              scaled to size 20.74pt on input line 27.
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' in size <10.95> not ava
 ilable
 (Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on inp
-ut line 32.
+ut line 33.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 10.95pt on input line 32.
+(Font)              scaled to size 10.95pt on input line 33.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' in size <10.95> not av
 ailable
 (Font)              Font shape `OT1/EBGaramond-OsF/regular/it' tried instead on
@@ -439,14 +439,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/Andres/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-[2] (TalaveraCV.aux)
+[2] [3] (TalaveraCV.aux)
 Package rerunfilecheck Info: File `TalaveraCV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 6912 strings out of 480223
- 111936 string characters out of 2879841
- 410034 words of memory out of 3000000
+ 6913 strings out of 480223
+ 111849 string characters out of 2879841
+ 410816 words of memory out of 3000000
  23344 multiletter control sequences out of 15000+600000
  545404 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -460,9 +460,9 @@ ocal/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><C:/Us
 ers/Andres/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramo
 nd-Regular.pfb><C:/Users/Andres/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb>
-Output written on TalaveraCV.pdf (2 pages, 319042 bytes).
+Output written on TalaveraCV.pdf (3 pages, 320402 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
+ 43 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
