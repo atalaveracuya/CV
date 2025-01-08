@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2025.1.8)  8 JAN 2025 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2025.1.8)  8 JAN 2025 17:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -383,24 +383,69 @@ Package hyperref Info: Link coloring OFF on input line 27.
 \@outlinefile=\write3
 \openout3 = `TalaveraCV.out'.
 
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 27.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' will be
+(Font)              scaled to size 20.74pt on input line 27.
 
-! I can't write on file `TalaveraCV.pdf'.
-(Press Enter to retry, or Control-C to exit; default file extension is `.pdf')
-Please type another file name for output
-! Emergency stop.
-<to be read again> 
-                   \edef 
-l.27 \begin{document}
-                     	
-*** (job aborted, file error in nonstop mode)
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
- 
+ []
+
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 33.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 34.
+LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on i
+nput line 59.
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/ebgaramond\ts1ebgaramond
+-osf.fd
+File: TS1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for TS1/EBGar
+amond-OsF.
+)
+LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 90.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 90.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 90.
+
+Overfull \hbox (21.98306pt too wide) in paragraph at lines 90--91
+[]\OT1/EBGaramond-OsF/m/n/10.95 Analizar y mejo-rar los re-sul-ta-dos de la se-
+gunda vuelta en el m[]odulo ERETES, de los equi-lib-rios de los pro-duc-tos per
+tenecientes
+ []
+
+[1
+
+{C:/Users/USER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+[3] (TalaveraCV.aux)
+Package rerunfilecheck Info: File `TalaveraCV.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
 Here is how much of TeX's memory you used:
- 10009 strings out of 475385
- 164732 string characters out of 2777380
- 498020 words of memory out of 3000000
- 31277 multiletter control sequences out of 15000+600000
- 470639 words of font info for 30 fonts, out of 8000000 for 9000
+ 10103 strings out of 475385
+ 166836 string characters out of 2777380
+ 519020 words of memory out of 3000000
+ 31350 multiletter control sequences out of 15000+600000
+ 479568 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,0n,76p,506b,229s stack positions out of 10000i,1000n,20000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 70i,5n,76p,550b,610s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebg_y
+od6vr.enc}{C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramo
+nd/ebg_ne3tkd.enc}{C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/
+ebgaramond/ebg_qn2lct.enc}<C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/ebgaramond/EBGaramond-Bold.pfb><C:/Users/USER/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><C:/Users/USER/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
+<C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cms
+y10.pfb>
+Output written on TalaveraCV.pdf (3 pages, 93326 bytes).
+PDF statistics:
+ 48 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
